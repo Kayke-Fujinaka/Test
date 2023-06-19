@@ -1,5 +1,5 @@
-function multiplicate(a, b) {
+function divide(a, b) {
   return a / b;
 }
 
-console.log(multiplicate(1, 2));
+console.log(divide(1, 2));
